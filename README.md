@@ -1,2 +1,3 @@
 # hello-world
-test
+
+Work to learn and begin an expert on Git ;)
